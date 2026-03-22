@@ -1,0 +1,114 @@
+[
+  {
+    "Title": "Star Wars: Episode IV - A New Hope",
+    "Year": "1977",
+    "Rated": "PG",
+    "Released": "25 May 1977",
+    "Runtime": "121 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "George Lucas",
+    "Writer": "George Lucas",
+    "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
+    "Plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 6 Oscars. 70 wins & 31 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "90/100"
+      }
+    ],
+    "Metascore": "90",
+    "imdbRating": "8.6",
+    "imdbVotes": "1,555,851",
+    "imdbID": "tt0076759",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$460,998,507",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "SP FX: Special Effects - The Empire Strikes Back",
+    "Year": "1980",
+    "Rated": "N/A",
+    "Released": "22 Sep 1980",
+    "Runtime": "49 min",
+    "Genre": "Documentary",
+    "Director": "Robert Guenette",
+    "Writer": "Richard Schickel",
+    "Actors": "Mark Hamill, Bob Anderson, Jon Berg",
+    "Plot": "A behind-the-scenes look at the creation of the special effects in the second Star Wars installment.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDQyNDUwODktNDRmYi00MDM5LWJlNTAtNWRjODY0ZWNkNDM1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.5",
+    "imdbVotes": "369",
+    "imdbID": "tt0344288",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Tender Bar",
+    "Year": "2021",
+    "Rated": "R",
+    "Released": "07 Jan 2022",
+    "Runtime": "106 min",
+    "Genre": "Biography, Drama, Romance",
+    "Director": "George Clooney",
+    "Writer": "William Monahan, J.R. Moehringer",
+    "Actors": "Ben Affleck, Tye Sheridan, Daniel Ranieri",
+    "Plot": "A boy falls under the unconventional tutelage of his uncle, a charismatic, self-educated bartender.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 9 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTg3NzI1ODItOTBkMC00MjViLWFlOTItYzBkNDMyMTZiMWIxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "51%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "53/100"
+      }
+    ],
+    "Metascore": "53",
+    "imdbRating": "6.7",
+    "imdbVotes": "36,714",
+    "imdbID": "tt3108894",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+]
